@@ -1,0 +1,13 @@
+body{
+    font-family: 'poppings';
+}
+h1{
+    font-size: 50px;
+
+}
+.color{
+    color: orange;
+}
+section{
+    display: flex;
+}
