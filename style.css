@@ -17,7 +17,7 @@ h1{
 .colorh{
     color: lightgreen;
 }
-section{
+.fexible-container{
     display: flex;
     margin-bottom: 150px;
 }
